@@ -11,3 +11,9 @@
 - [파이썬과 인공지능 기초수학][2weeklink]
 
 [2weeklink]: 2주차과제.ipynb "2주차 과제"
+
+3주차 과제 (2020.06.04)
+----------
+- [학습률 최적화, 군집 분석, Cost Function 구현][3weeklink]
+
+[3weeklink]: 3주차_과제.ipynb "3주차 과제"
